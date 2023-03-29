@@ -1,0 +1,9 @@
+#parrafoDeEntrada {
+    color: rgb(0, 60, 255)  ;
+} 
+
+.cuadro {
+    border: 2px solid black;
+    padding: 5px;
+    
+}
